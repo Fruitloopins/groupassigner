@@ -1,2 +1,2 @@
 # groupassigner
-Assigns people to groups randomly while keeping them even
+Something I made quickly for assigning new EarthMC staff to their groups
